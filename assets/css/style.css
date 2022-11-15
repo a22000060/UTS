@@ -1,0 +1,36 @@
+  body {
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .table th {
+    background-color: #2aff34 !important;
+  }
+
+  .wrap nav{
+    background-color:#2aff34 !important;
+    
+   }
+   
+  .navbar div span{
+    color:#000000;
+  }
+
+  .wrap {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
+  th {
+    font-size: 17px;
+  }
+
+  td {
+    font-size: 17px;
+  }
